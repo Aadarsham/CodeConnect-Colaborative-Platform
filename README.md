@@ -17,3 +17,5 @@ This is the student interface where you can get the scores and can submit the an
 ![Student Dashboard](https://github.com/Aadarsham/CodeConnect-Colaborative-Platform/assets/121338744/5889456c-4d9f-4f97-95e0-10e3dc99fcb2)
 ![Comment on answer](https://github.com/Aadarsham/CodeConnect-Colaborative-Platform/assets/121338744/c5c524bc-b0b4-4577-a4e9-e27547644f6a)
 
+This is the Compiler that is for the students to write there code on and can submit it to the teachers: 
+![Compiler](https://github.com/Aadarsham/CodeConnect-Colaborative-Platform/assets/121338744/16a5b794-f373-4e8d-8861-10be9d62d6fe)
